@@ -1,0 +1,6 @@
+wc -short for word count- reads either standard input or a list of files and generates any of : newline count, word count, and byte count.
+wc -l  prints the line count
+wc -c prints the byte count
+wc -m prints the character count
+wc -L prints the length of the longest line
+wc -w prints the word count
